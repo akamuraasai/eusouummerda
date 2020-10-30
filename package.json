@@ -1,0 +1,22 @@
+{
+  "name": "eusouummerda",
+  "version": "1.0.0",
+  "description": "O que foi que eu fiz da minha vida?",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akamuraasai/eusouummerda.git"
+  },
+  "author": "Jonathan Willian <jonathan.willian.tod@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "xfiles": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/akamuraasai/eusouummerda/issues"
+  },
+  "homepage": "https://github.com/akamuraasai/eusouummerda#readme"
+}
